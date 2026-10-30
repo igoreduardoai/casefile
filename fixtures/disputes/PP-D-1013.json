@@ -1,0 +1,44 @@
+{
+  "dispute_id": "PP-D-1013",
+  "create_time": "2026-10-26T15:00:00Z",
+  "update_time": "2026-10-26T15:00:00Z",
+  "disputed_transactions": [
+    {
+      "seller_transaction_id": "9S1013TX",
+      "invoice_number": "JT-1013",
+      "create_time": "2026-10-09T10:00:00Z",
+      "transaction_status": "COMPLETED",
+      "gross_amount": {
+        "currency_code": "USD",
+        "value": "58.00"
+      },
+      "buyer": {
+        "name": "Max Example"
+      }
+    }
+  ],
+  "reason": "INCORRECT_AMOUNT",
+  "status": "WAITING_FOR_SELLER_RESPONSE",
+  "dispute_amount": {
+    "currency_code": "USD",
+    "value": "58.00"
+  },
+  "dispute_life_cycle_stage": "INQUIRY",
+  "dispute_channel": "INTERNAL",
+  "seller_response_due_date": "2026-11-09T23:59:59Z",
+  "evidences": [],
+  "messages": [
+    {
+      "posted_by": "BUYER",
+      "time_posted": "2026-10-26T15:00:00Z",
+      "content": "I was charged more than the price on the site."
+    }
+  ],
+  "links": [
+    {
+      "rel": "provide_evidence",
+      "method": "POST",
+      "href": "https://api-m.sandbox.paypal.com/v1/customer/disputes/PP-D-1013/provide-evidence"
+    }
+  ]
+}

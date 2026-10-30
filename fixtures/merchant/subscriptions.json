@@ -1,0 +1,14 @@
+[
+  {
+    "invoice_number": "JT-1014",
+    "accepted": "2026-06-15",
+    "canceled": "2026-10-01",
+    "cycle": "monthly on the 15th"
+  },
+  {
+    "invoice_number": "JT-1015",
+    "accepted": "2026-04-15",
+    "canceled": null,
+    "cycle": "monthly on the 15th"
+  }
+]

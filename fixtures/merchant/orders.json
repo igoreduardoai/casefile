@@ -1,0 +1,350 @@
+[
+  {
+    "invoice_number": "JT-1001",
+    "created": "2026-10-02T15:04:00Z",
+    "buyer_email": "ana@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1002",
+    "created": "2026-10-05T10:00:00Z",
+    "buyer_email": "ben@example.com",
+    "total": 58.0,
+    "items": [
+      {
+        "sku": "TEA-CHAI-300",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1003",
+    "created": "2026-10-23T09:30:00Z",
+    "buyer_email": "cai@example.com",
+    "total": 36.0,
+    "items": [
+      {
+        "sku": "TEA-SAMP-12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1004",
+    "created": "2026-10-01T18:00:00Z",
+    "buyer_email": "dee@example.com",
+    "total": 129.0,
+    "items": [
+      {
+        "sku": "KETTLE-GOOSE",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1005",
+    "created": "2026-10-06T12:00:00Z",
+    "buyer_email": "eli@example.com",
+    "total": 64.0,
+    "items": [
+      {
+        "sku": "TEA-OOL-500",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1006",
+    "created": "2026-10-08T08:00:00Z",
+    "buyer_email": "fay@example.com",
+    "total": 129.0,
+    "items": [
+      {
+        "sku": "KETTLE-GOOSE",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1007",
+    "created": "2026-09-20T11:00:00Z",
+    "buyer_email": "gus@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1008",
+    "created": "2026-09-25T11:00:00Z",
+    "buyer_email": "hal@example.com",
+    "total": 36.0,
+    "items": [
+      {
+        "sku": "TEA-SAMP-12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1009",
+    "created": "2026-10-10T14:00:00Z",
+    "buyer_email": "ivy@example.com",
+    "total": 58.0,
+    "items": [
+      {
+        "sku": "TEA-CHAI-300",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1009B",
+    "created": "2026-10-03T09:00:00Z",
+    "buyer_email": "ivy@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1010",
+    "created": "2026-10-12T16:00:00Z",
+    "buyer_email": "jo@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1010B",
+    "created": "2026-10-12T16:01:30Z",
+    "buyer_email": "jo@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1011",
+    "created": "2026-10-11T19:00:00Z",
+    "buyer_email": "kim@example.com",
+    "total": 129.0,
+    "items": [
+      {
+        "sku": "KETTLE-GOOSE",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1011P0",
+    "created": "2026-06-10T10:00:00Z",
+    "buyer_email": "kim@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1011P1",
+    "created": "2026-07-10T10:00:00Z",
+    "buyer_email": "kim@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1011P2",
+    "created": "2026-08-10T10:00:00Z",
+    "buyer_email": "kim@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1012",
+    "created": "2026-10-14T03:12:00Z",
+    "buyer_email": "lou@example.com",
+    "total": 129.0,
+    "items": [
+      {
+        "sku": "KETTLE-GOOSE",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1013",
+    "created": "2026-10-09T10:00:00Z",
+    "buyer_email": "max@example.com",
+    "total": 58.0,
+    "items": [
+      {
+        "sku": "TEA-CHAI-300",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1014",
+    "created": "2026-10-15T00:05:00Z",
+    "buyer_email": "ned@example.com",
+    "total": 24.0,
+    "items": [
+      {
+        "sku": "SUB-MINI",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1015",
+    "created": "2026-10-15T00:05:00Z",
+    "buyer_email": "oli@example.com",
+    "total": 29.0,
+    "items": [
+      {
+        "sku": "SUB-MONTH",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1016",
+    "created": "2026-10-18T13:00:00Z",
+    "buyer_email": "pat@example.com",
+    "total": 50.0,
+    "items": [
+      {
+        "sku": "GIFT-50",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1017",
+    "created": "2026-10-04T10:00:00Z",
+    "buyer_email": "quin@example.com",
+    "total": 12.0,
+    "items": [
+      {
+        "sku": "TEA-MINT-50",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1018",
+    "created": "2026-10-01T10:00:00Z",
+    "buyer_email": "rae@example.com",
+    "total": 58.0,
+    "items": [
+      {
+        "sku": "TEA-CHAI-300",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1019",
+    "created": "2026-10-07T10:00:00Z",
+    "buyer_email": "sam@example.com",
+    "total": 64.0,
+    "items": [
+      {
+        "sku": "TEA-OOL-500",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1020",
+    "created": "2026-10-13T10:00:00Z",
+    "buyer_email": "tia@example.com",
+    "total": 64.0,
+    "items": [
+      {
+        "sku": "TEA-OOL-500",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1021",
+    "created": "2026-10-03T10:00:00Z",
+    "buyer_email": "uma@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1022",
+    "created": "2026-09-28T10:00:00Z",
+    "buyer_email": "vic@example.com",
+    "total": 58.0,
+    "items": [
+      {
+        "sku": "TEA-CHAI-300",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1023",
+    "created": "2026-10-02T10:00:00Z",
+    "buyer_email": "wes@example.com",
+    "total": 42.0,
+    "items": [
+      {
+        "sku": "TEA-GREEN-250",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "invoice_number": "JT-1024",
+    "created": "2026-10-16T10:00:00Z",
+    "buyer_email": "xan@example.com",
+    "total": 58.0,
+    "items": [
+      {
+        "sku": "TEA-CHAI-300",
+        "qty": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "sku": "TEA-OOL-500",
+    "title": "Oolong loose leaf, 500 g bag",
+    "price": 64.0,
+    "net_weight_g": 500
+  },
+  {
+    "sku": "TEA-SAMP-12",
+    "title": "Sampler box, 12 teas x 20 g",
+    "price": 36.0,
+    "net_weight_g": 240
+  },
+  {
+    "sku": "KETTLE-GOOSE",
+    "title": "Gooseneck kettle, 1 L, stainless",
+    "price": 129.0,
+    "net_weight_g": 900
+  },
+  {
+    "sku": "TEA-GREEN-250",
+    "title": "Sencha green tea, 250 g",
+    "price": 42.0,
+    "net_weight_g": 250
+  },
+  {
+    "sku": "TEA-CHAI-300",
+    "title": "Masala chai blend, 300 g",
+    "price": 58.0,
+    "net_weight_g": 300
+  },
+  {
+    "sku": "GIFT-50",
+    "title": "E-gift card, USD 50 (emailed)",
+    "price": 50.0,
+    "digital": true
+  },
+  {
+    "sku": "SUB-MONTH",
+    "title": "Tea of the month subscription",
+    "price": 29.0
+  },
+  {
+    "sku": "SUB-MINI",
+    "title": "Mini tea subscription",
+    "price": 24.0
+  },
+  {
+    "sku": "TEA-MINT-50",
+    "title": "Peppermint tisane, 50 g",
+    "price": 12.0,
+    "net_weight_g": 50
+  }
+]

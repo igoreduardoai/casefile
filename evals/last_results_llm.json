@@ -1,0 +1,108 @@
+{
+  "n": 24,
+  "acc_b0": 0.375,
+  "acc_b1": 0.5416666666666666,
+  "acc_casefile": 1.0,
+  "evidence_attached": [
+    16,
+    16
+  ],
+  "verifier_attacks": [
+    12,
+    12
+  ],
+  "llm_accepted": [
+    8,
+    13
+  ],
+  "llm_detail": [
+    {
+      "id": "PP-D-1001",
+      "writer": "template",
+      "secs": 3.13,
+      "rejected_errors": [
+        "V3 'TEA-GREEN-250' not in cited evidence ['E2']: 'The item TEA-GREEN-250 was shipped on 2026-10-03 via USPS an'"
+      ]
+    },
+    {
+      "id": "PP-D-1003",
+      "writer": "template",
+      "secs": 11.28,
+      "rejected_errors": [
+        "V3 'TEA-SAMP-12' not in cited evidence ['E2']: 'The item TEA-SAMP-12 was shipped via UPS on 2026-10-24 with '"
+      ]
+    },
+    {
+      "id": "PP-D-1004",
+      "writer": "groq",
+      "secs": 3.56,
+      "rejected_errors": []
+    },
+    {
+      "id": "PP-D-1005",
+      "writer": "groq",
+      "secs": 3.27,
+      "rejected_errors": []
+    },
+    {
+      "id": "PP-D-1007",
+      "writer": "template",
+      "secs": 12.21,
+      "rejected_errors": [
+        "V3 'TEA-GREEN-250' not in cited evidence ['E2']: 'The item TEA-GREEN-250 was shipped on 2026-09-21 via USPS, t'"
+      ]
+    },
+    {
+      "id": "PP-D-1009",
+      "writer": "template",
+      "secs": 3.44,
+      "rejected_errors": [
+        "V3 'TEA-CHAI-300' not in cited evidence ['E2']: 'This order contained the item TEA-CHAI-300 and was shipped o'"
+      ]
+    },
+    {
+      "id": "PP-D-1011",
+      "writer": "groq",
+      "secs": 11.49,
+      "rejected_errors": []
+    },
+    {
+      "id": "PP-D-1013",
+      "writer": "groq",
+      "secs": 11.94,
+      "rejected_errors": []
+    },
+    {
+      "id": "PP-D-1015",
+      "writer": "groq",
+      "secs": 3.45,
+      "rejected_errors": []
+    },
+    {
+      "id": "PP-D-1016",
+      "writer": "groq",
+      "secs": 3.42,
+      "rejected_errors": []
+    },
+    {
+      "id": "PP-D-1019",
+      "writer": "template",
+      "secs": 11.48,
+      "rejected_errors": [
+        "V3 'TEA-OOL-500' not in cited evidence ['E2']: 'The item TEA-OOL-500 was shipped via UPS on 2026-10-08 and d'"
+      ]
+    },
+    {
+      "id": "PP-D-1021",
+      "writer": "groq",
+      "secs": 2.98,
+      "rejected_errors": []
+    },
+    {
+      "id": "PP-D-1024",
+      "writer": "groq",
+      "secs": 11.31,
+      "rejected_errors": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "n": 24,
+  "acc_b0": 0.375,
+  "acc_b1": 0.5416666666666666,
+  "acc_casefile": 1.0,
+  "evidence_attached": [
+    16,
+    16
+  ],
+  "verifier_attacks": [
+    12,
+    12
+  ]
+}
