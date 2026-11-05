@@ -37,7 +37,7 @@ Optional: set `GROQ_API_KEY` (free at console.groq.com) to let the LLM write the
 
 ## PayPal sandbox mode
 Set `PAYPAL_CLIENT_ID` and `PAYPAL_CLIENT_SECRET` from a sandbox app at https://developer.paypal.com/dashboard/applications/sandbox. Then `list` and `show` read real sandbox disputes, and `show <id> --approve <token>` sends the planned call. See `docs/SANDBOX-SETUP.md` for creating a test dispute and driving it through `require-evidence` and `adjudicate` (sandbox-only endpoints).
-Sandbox status as of Oct 30: **not run yet** (no keys configured).
+Sandbox status as of Nov 5, 2026: **not run yet** (no sandbox keys configured). The integration point is `casefile/paypal.py` (`PayPalClient`, base URL hard-coded to `https://api-m.sandbox.paypal.com`); without `PAYPAL_CLIENT_ID`/`PAYPAL_CLIENT_SECRET` the CLI falls back to fixtures and labels every output `FIXTURE`. Exact remaining steps: `docs/SANDBOX-SETUP.md`.
 
 ## Architecture
 `paypal.py` (sandbox REST client + offline fixture reader) → `evidence.py` (casefile from seller records) → `decide.py` (deterministic action) → `writer.py` (LLM or template) → `verify.py` (claim-level checks) → `desk.py` (plan, approval token, execute) → `cli.py`.
